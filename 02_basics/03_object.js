@@ -30,4 +30,4 @@ obj.greetingtwo = function(){
     console.log(`Hello objects ${this.name}`);
 }
 console.log(obj.greeting());
-console.log(obj.greetingtwo());
+console.log(obj.greetingtwo());.
